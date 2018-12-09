@@ -1,0 +1,6 @@
+Model/Item.class
+Main.class
+Service/RequestService.class
+Model/Items.class
+Utils/RestTemplateResolver.class
+Controller/RequestController.class
